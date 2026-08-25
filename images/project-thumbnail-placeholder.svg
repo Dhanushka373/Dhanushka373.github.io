@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title description">
+  <title id="title">Project thumbnail placeholder</title>
+  <desc id="description">Replace this image with a JPG or PNG project thumbnail.</desc>
+  <defs><linearGradient id="bg" x1="80" y1="40" x2="820" y2="560" gradientUnits="userSpaceOnUse"><stop stop-color="#24213F"/><stop offset="1" stop-color="#11131A"/></linearGradient><radialGradient id="glow"><stop stop-color="#6C5CE7" stop-opacity=".45"/><stop offset="1" stop-color="#6C5CE7" stop-opacity="0"/></radialGradient></defs>
+  <rect width="900" height="600" rx="24" fill="url(#bg)"/>
+  <circle cx="700" cy="110" r="280" fill="url(#glow)"/>
+  <rect x="120" y="105" width="660" height="390" rx="18" fill="#0D0F15" stroke="#FFFFFF" stroke-opacity=".13" stroke-width="2"/>
+  <circle cx="151" cy="137" r="7" fill="#FF6B57"/><circle cx="174" cy="137" r="7" fill="#FFD166"/><circle cx="197" cy="137" r="7" fill="#62D49A"/>
+  <rect x="153" y="184" width="310" height="25" rx="7" fill="#FFFFFF" fill-opacity=".12"/>
+  <rect x="153" y="232" width="594" height="170" rx="13" fill="#6C5CE7" fill-opacity=".14"/>
+  <path d="m353 278 118 67-118 67V278Z" fill="#8C80F2" fill-opacity=".75"/>
+  <rect x="153" y="427" width="180" height="18" rx="6" fill="#FFFFFF" fill-opacity=".08"/>
+  <rect x="153" y="457" width="125" height="12" rx="5" fill="#FFFFFF" fill-opacity=".05"/>
+  <text x="450" y="552" fill="#C9CDD6" font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="3">ADD JPG OR PNG THUMBNAIL</text>
+</svg>

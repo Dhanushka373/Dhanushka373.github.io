@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title description">
+  <title id="title">Temporary university logo</title>
+  <desc id="description">A circular placeholder to replace with the official university logo.</desc>
+  <defs>
+    <linearGradient id="background" x1="20" y1="10" x2="100" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8C80F2"/>
+      <stop offset="1" stop-color="#4B3FC4"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="58" fill="url(#background)"/>
+  <circle cx="60" cy="60" r="47" fill="none" stroke="#FFFFFF" stroke-opacity=".5" stroke-width="2"/>
+  <path d="M32 48 60 33l28 15-28 15-28-15Z" fill="#FFFFFF"/>
+  <path d="M42 58v16c10 8 26 8 36 0V58L60 68 42 58Z" fill="#FFFFFF" fill-opacity=".9"/>
+  <text x="60" y="96" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="9" font-weight="700" text-anchor="middle" letter-spacing="1">UNIVERSITY</text>
+</svg>
